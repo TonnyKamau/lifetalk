@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338204786428",
+    "project_id": "lifetalk-ae825",
+    "storage_bucket": "lifetalk-ae825.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338204786428:android:fb9dc328d79a005b182179",
+        "android_client_info": {
+          "package_name": "com.example.lifetalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwwAt4ZYyLxtxXQFmxve7JEZOgB6tPQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
